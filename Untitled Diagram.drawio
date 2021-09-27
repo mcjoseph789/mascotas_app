@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T04:20:23.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.214" etag="tnGgQYqk6g_0Ivb5h5ro" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T04:26:05.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.214" etag="f8hZqT2WyiTbGAIaYSTM" version="15.3.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2350" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -723,6 +723,15 @@
         </mxCell>
         <mxCell id="pLpSQrLzLDThuKxvt_ge-1962" value="Ayudas" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1970" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.neodoc.es/wp-content/uploads/2015/11/seguridad.png;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="1290" width="164.84" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1971" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2016/03/28/14591849681524.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1290" width="208.64" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1974" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://retos-directivos.eae.es/wp-content/uploads/2015/05/feedback.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1034" width="193.9" height="176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
