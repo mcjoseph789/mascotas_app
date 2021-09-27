@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T03:48:34.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.214" etag="uPRwXzGM5rEHqdy5zjTh" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T03:51:18.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.214" etag="GSeAbgp5zFOTlzCoSWPe" version="15.3.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2142" dy="1359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -440,14 +440,39 @@
             <mxPoint x="1378" y="359.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1889" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="pLpSQrLzLDThuKxvt_ge-1880" target="pLpSQrLzLDThuKxvt_ge-1888">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pLpSQrLzLDThuKxvt_ge-1880" value="Estrategia de decisiones de diseño" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1030" y="790" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1893" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="pLpSQrLzLDThuKxvt_ge-1881" target="pLpSQrLzLDThuKxvt_ge-1891">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1894" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="pLpSQrLzLDThuKxvt_ge-1881" target="pLpSQrLzLDThuKxvt_ge-1892">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1592" y="804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pLpSQrLzLDThuKxvt_ge-1881" value="Independizar la funcionalidad del componente de diálogo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="700" width="180" height="80" as="geometry" />
+          <mxGeometry x="1410" y="690" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pLpSQrLzLDThuKxvt_ge-1884" value="Separación de los componentes desde las etapas iniciales del desarrollo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1230" y="800" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1886" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pbs.twimg.com/profile_images/502459505817706496/1W45MBaX_400x400.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="170" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1888" value="Desarrollador de diálogo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="890" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1891" value="Dialogo interno" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="730" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pLpSQrLzLDThuKxvt_ge-1892" value="Dialogo Externo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="780" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
